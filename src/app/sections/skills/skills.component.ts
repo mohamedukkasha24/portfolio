@@ -11,10 +11,10 @@ export class SkillsComponent {
   skills = [
     { name: 'HTML', level: 95 },
     { name: 'CSS', level: 90 },
-    { name: 'JavaScript', level: 88 },
+    { name: 'JavaScript', level: 70 },
     { name: 'Bootstrap', level: 85 },
     { name: 'Tailwind CSS', level: 92 },
-    { name: 'Angular', level: 90 },
-    { name: 'Firebase', level: 80 }
+    { name: 'Angular', level: 60},
+    { name: 'Firebase', level: 70 }
   ];
 }
