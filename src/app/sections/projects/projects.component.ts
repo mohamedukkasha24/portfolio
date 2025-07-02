@@ -30,7 +30,7 @@ export class ProjectsComponent {
       description: 'Real-time weather application using APIs with responsive Tailwind UI, location detection, and 7-day forecasts.',
       technologies: ['Angular', 'Weather API', 'Tailwind CSS', 'TypeScript'],
       image: 'https://images.unsplash.com/photo-1504608524841-42fe6f032b4b?w=500&h=300&fit=crop',
-      demoLink: '#',
+      demoLink: 'https://weather-app-ukkasha.web.app/',
       githubLink: 'https://github.com/mohamedukkasha24'
     }
   
